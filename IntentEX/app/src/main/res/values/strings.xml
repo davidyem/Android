@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentEX</string>
+    <string name="input_text">Enter the message here</string>
+    <string name="label_button">SEND</string>
+</resources>
