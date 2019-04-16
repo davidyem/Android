@@ -19,7 +19,7 @@ public class receive extends AppCompatActivity {
         String radio = getIntent().getStringExtra("subjects");
         String subjects = getIntent().getStringExtra("subjects");
 
-
+        
         String action = "";
         String fullname = firstanme + " " + secondname;
 
