@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hello">Вітаю! Обери предмети, які ти будеш вивчати на 4 курсі.</string>
+    <string name="name">Ім\'я</string>
+    <string name="surname">Призвіще</string>
+    <string name="send_text">ОБРАТИ ПРЕДМЕТИ</string>
+    <string name="pastename">Яку спеціалізацію та обираєш, </string>
+    <string name="pastecourse">Яку спеціалізацію та обираєш, %s</string>
+    <string name="takesubject">Яку спеціалізацію та обираєш, %s</string>
+    <string name="sendquiz">НАДІСЛАТИ</string>
+    <string name="text_result">Студент %s Обрав спеціальність: %s Обрав активності: %s Зацікавився предметом: %s</string>
+    <string name="choose_subject">Який з предметів тоді найцікавіший</string>
+    <string name="qa">QA</string>
+    <string name="devops">DevOps</string>
+    <string name="lections">Лекції</string>
+    <string name="practice">Практичні</string>
+    <string name="laborates">Лабораторні</string>
+    <string-array name="subjects">
+        <item>Java</item>
+        <item>PHP</item>
+        <item>C#</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Assembler</item>
+    </string-array>
+
+</resources>
